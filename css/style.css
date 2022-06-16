@@ -1,0 +1,25 @@
+body{
+    background: rgb(229, 126, 255);
+    background: linear-gradient(
+        90deg,
+        rgb(178, 9, 220) 12%,
+        rgba(6, 132, 216, 1) 100%
+    );  
+}
+
+input{
+    border: none;
+    border-radius: 10px;
+}
+
+button{
+    border-radius: 10px;
+}
+
+.barre{
+    height: 50px;
+    width: 500px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin : 0 auto;
+}

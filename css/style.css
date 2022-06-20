@@ -31,3 +31,10 @@ button{
     padding: 2%;
 
 }
+
+
+
+.completed {
+    text-decoration: line-through;
+    color: rgb(0, 187,91);
+}
